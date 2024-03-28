@@ -1,0 +1,47 @@
+
+#inicio{
+    background-color:#93B1A6 ;
+    height: 220px;
+}
+#competencias{
+    background-color: #5C8374;
+}
+#texto-inicial{
+    padding: 30px;
+}
+#marca{
+    padding-left: 2%;
+}
+
+#imagem-principal{
+        padding-top: 0.6%;
+        padding-right: 2%;
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+}
+
+#sobre-mim{
+    background-color:#93B1A6 ;
+    height: 720px;
+
+}
+
+#texto-sobre-mim{
+    text-align: left;
+    padding-top: 10%;
+
+}
+
+#imagem-sobre-mim{
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+#projetos{
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: #183D3D;
+    height: 512px;
+    padding-top: 2%;
+}
